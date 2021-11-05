@@ -7,6 +7,7 @@ public class prueba {
 
 		
 		System.out.println("bienvenidos");
+		System.out.println("campeona");
 	}
 
 }
